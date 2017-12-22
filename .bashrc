@@ -1,0 +1,1 @@
+/home/sewook/.bashrc
