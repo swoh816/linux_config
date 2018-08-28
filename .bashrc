@@ -155,6 +155,8 @@ knitr2html(){
 alias resetnetwork="sudo systemctl restart network-manager.service"
 
 
+
+
 # Convert pdf to black and white
 # https://superuser.com/questions/104656/convert-a-pdf-to-greyscale-on-the-command-line-in-floss
 convertpdfblackandwhite(){
@@ -207,3 +209,14 @@ github-delete() {
  curl -u swoh816 -X "DELETE" https://api.github.com/repos/swoh816/"$repo_name"
  echo " done."
 }
+
+
+
+# 1THEFULL
+#### ssh 1thefull platform
+alias 1thefull-ssh="ssh -i ~/.ssh/rsa-gcp-key swoh@35.185.132.59"
+#alias ssh-1thefull="ssh swoh@35.185.132.59"
+
+#### Access to 1thefull sql
+alias 1thefull-sql="mysql --host=35.201.169.147 --user=root --password=1thefull!"
+#alias 1thefull-sql="mysql -h 35.201.169.147 -u root -p"

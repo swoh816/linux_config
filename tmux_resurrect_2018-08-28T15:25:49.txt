@@ -1,0 +1,69 @@
+pane	0	0	:bash	1	:*	0	:/home/sewook	1	bash	:
+pane	goldbach	0	:bash	0	:-	0	:/media/sewook/Storage/Dropbox/Simulations/Hobby/PerSim/GB/New_2017_code/3-length_of_symmetric_complex_sequence	1	bash	:
+pane	goldbach	1	:bash	1	:*	0	:/media/sewook/Storage/Dropbox/Simulations/Hobby/PerSim/GB/New_2017_code/Paper/Approx_solution	0	bash	:
+pane	goldbach	1	:bash	1	:*	1	:/media/sewook/Storage/Dropbox/Simulations/Hobby/PerSim/GB/New_2017_code/Paper/Approx_solution	1	bash	:
+pane	hobby	0	:PythonPrac	0	:-	0	:/media/sewook/Storage/Dropbox/Simulations/ProgrammingLang/PythonExercise/Functional_Programming	1	bash	:
+pane	hobby	1	:papers	1	:*	0	:/media/sewook/Storage/Dropbox/Simulations/Hobby/Machine_Learning	1	bash	:
+pane	hobby	2	:RL	0	:	0	:/home/sewook/Downloads/Java	1	bash	:
+pane	hobby	3	:PyTorch	0	:	0	:/media/sewook/Storage/Dropbox/Simulations/Hobby/Machine_Learning/ML_Course/Python/PyTorch/StudyGroup/GAN	0	bash	:
+pane	hobby	3	:PyTorch	0	:	1	:/media/sewook/Storage/Dropbox/Simulations/Hobby/Machine_Learning/ML_Course/Python/PyTorch/StudyGroup/oxaipytorch/learning/rnns	0	bash	:
+pane	hobby	3	:PyTorch	0	:	2	:/media/sewook/Storage/Dropbox/Simulations/Hobby/Machine_Learning/ML_Course/Python/PyTorch/PyTorch_video	0	bash	:
+pane	hobby	3	:PyTorch	0	:	3	:/media/sewook/Storage/Dropbox/Simulations/Hobby/Machine_Learning/ML_Course/Python/PyTorch/PyTorch_website/NLP	0	bash	:
+pane	hobby	3	:PyTorch	0	:	4	:/media/sewook/Storage/Dropbox/Simulations/Hobby/Machine_Learning/ML_Course/Python/PyTorch/PyTorch_website/RL	1	bash	:
+pane	phd	0	:bash	1	:*	0	:/media/sewook/Storage/Dropbox/Week_Summary/MY_PAPERS/Timer_model/Figures/timer_model_on_larger_scale/Uniform_and_Gamma/1-num_vs_anal/1.2-Real_nets	0	bash	:
+pane	phd	0	:bash	1	:*	1	:/media/sewook/Storage/Dropbox/Week_Summary/MY_PAPERS/Timer_model/Figures/timer_model_on_larger_scale/Uniform_and_Gamma/1-num_vs_anal/1.2-Real_nets	0	bash	:
+pane	phd	0	:bash	1	:*	2	:/media/sewook/Storage/Dropbox/Week_Summary/MY_PAPERS/Timer_model/Figures/timer_model_on_larger_scale/Uniform_and_Gamma/7-stem_progress	0	bash	:
+pane	phd	0	:bash	1	:*	3	:/media/sewook/Storage/Dropbox/Week_Summary/Thesis/Final_thesis/Mason_revision/Done	1	bash	:
+pane	phd	4	:15m_data	0	:-	0	:/media/sewook/Storage/Dropbox/Week_Summary/Thesis/Final_thesis/Chapters/Timer_model_real/Figures/15m/1-timer_thr_dist_and_correls/1.0-chg_dist_by_nth_activated_neighbour/1.0.1-Seeds_have_zero_timer/1.0-no_timer/Figures	1	bash	:
+pane	phd	5	:Higgs_data	0	:	0	:/media/sewook/Storage/Data/Real_world_data/Higgs_data	1	bash	:
+pane	phd	6	:stem_branch_MED	0	:	0	:/media/sewook/Storage/Dropbox/Week_Summary/MY_PAPERS/Timer_model/Figures/timer_model_on_larger_scale/Uniform_timers/6-adoption_path/6.1-Random_graph/6.1.1-ER_net	1	bash	:
+pane	phd	9	:bash	0	:	0	:/media/sewook/Storage/Dropbox	0	bash	:
+pane	phd	9	:bash	0	:	1	:/media/sewook/Storage/Dropbox/Week_Summary/MY_PAPERS/Timer_model/Send_to_Mason_7	0	bash	:
+pane	phd	9	:bash	0	:	2	:/media/sewook/Storage/Dropbox/Week_Summary/MY_PAPERS/Timer_model/Figures/timer_model_on_larger_scale/Uniform_and_Gamma/7-stem_progress/RESULTS	0	bash	:
+pane	phd	9	:bash	0	:	3	:/media/sewook/Storage/Dropbox/Week_Summary/MY_PAPERS/Timer_model/Figures/timer_model_on_larger_scale/Uniform_and_Gamma/7-stem_progress/7.2-Real_data/7.2.1-Facebook/7.2.1.2-Preserve_dissem_tree/Temporary_dir	1	bash	:
+pane	phd	9	:bash	0	:	4	:/media/sewook/Storage/Dropbox	0	bash	:
+pane	phd	9	:bash	0	:	5	:/media/sewook/Storage/Dropbox	0	bash	:
+pane	phd	9	:bash	0	:	6	:/media/sewook/Storage/Dropbox	0	bash	:
+pane	work	0	:kaggle	0	:	0	:/media/sewook/Storage/WonderfulPlatform/Practice/TowardsDataScience/RetailPriceRecom	0	bash	:
+pane	work	0	:kaggle	0	:	1	:/media/sewook/Storage/WonderfulPlatform/Practice/ML_practice/Kaggle/DecisionTree	0	bash	:
+pane	work	0	:kaggle	0	:	2	:/media/sewook/Storage/WonderfulPlatform/Practice/Data_practice/map/folium	1	bash	:
+pane	work	1	:crawlnlp	0	:	0	:/media/sewook/Storage/WonderfulPlatform/Practice/Data_practice/web_crawl	0	bash	:
+pane	work	1	:crawlnlp	0	:	1	:/media/sewook/Storage/Google_Drive/Books_and_Papers/Machine Learning/NLP/STT	1	bash	:
+pane	work	1	:crawlnlp	0	:	2	:/media/sewook/Storage/Dropbox/Simulations/Hobby/PerSim/Lotto	0	bash	:
+pane	work	2	:time-series	0	:	0	:/media/sewook/Storage/WonderfulPlatform/Practice/TowardsDataScience/TimeSeriesAnalysis	0	bash	:
+pane	work	2	:time-series	0	:	1	:/media/sewook/Storage/Dropbox/Simulations/Hobby/PerSim/Lotto/websitedata	0	bash	:
+pane	work	2	:time-series	0	:	2	:/media/sewook/Storage/WonderfulPlatform/Practice/TowardsDataScience/TimeSeriesAnalysis	0	bash	:
+pane	work	2	:time-series	0	:	3	:/media/sewook/Storage/WonderfulPlatform/Blockchain/BoT_Data_Analysis/Webapp/DataAnalApp/fakedata	1	bash	:
+pane	work	3	:data_gui	0	:	0	:/media/sewook/Storage/WonderfulPlatform/Blockchain/BoT_Data_Analysis/Webapp/Practice/DataLibPrac/D3	0	bash	:
+pane	work	3	:data_gui	0	:	1	:/media/sewook/Storage/WonderfulPlatform/Blockchain/BoT_Data_Analysis/Webapp/DataAnalApp	1	bash	:
+pane	work	4	:dataprac-block	0	:	0	:/media/sewook/Storage/WonderfulPlatform/Blockchain/BoT_Data_Analysis/Analysis/bnda	0	vim	:vim controller/db_ctl.py
+pane	work	4	:dataprac-block	0	:	1	:/media/sewook/Storage/WonderfulPlatform/Blockchain/BoT_Data_Analysis/Analysis/bnda	0	vim	:vim run.py
+pane	work	4	:dataprac-block	0	:	2	:/media/sewook/Storage/WonderfulPlatform/Blockchain/BoT_Data_Analysis/Analysis/bnda	0	python	:/home/sewook/anaconda3/bin/python /home/sewook/anaconda3/bin/ipython
+pane	work	4	:dataprac-block	0	:	3	:/media/sewook/Storage/WonderfulPlatform/Blockchain/BoT_Data_Analysis/Analysis/bnda	1	bash	:
+pane	work	5	:dataprac-health	0	:	0	:/media/sewook/Storage/WonderfulPlatform/Practice/ML_practice/keyword_extract	0	bash	:
+pane	work	5	:dataprac-health	0	:	1	:/media/sewook/Storage/WonderfulPlatform/Practice/Data_practice/statistics/unbalanced_data	0	bash	:
+pane	work	5	:dataprac-health	0	:	2	:/media/sewook/Storage/WonderfulPlatform/wellbecare/Data_analysis/Wellbe	1	bash	:
+pane	work	6	:drive	0	:-	0	:/media/sewook/Storage/WonderfulPlatform/wellbecare	0	bash	:
+pane	work	6	:drive	0	:-	1	:/media/sewook/Storage/WonderfulPlatform/Blockchain/BoT_Data_Analysis	1	drive	:drive push
+pane	work	7	:bash	1	:*	0	:/home/sewook/.tmux/resurrect	1	bash	:
+window	0	0	1	:*	d4dd,275x59,0,0,0
+window	goldbach	0	0	:-	d4de,275x59,0,0,1
+window	goldbach	1	1	:*	116c,275x59,0,0{138x59,0,0,2,136x59,139,0,3}
+window	hobby	0	0	:-	d4e1,275x59,0,0,4
+window	hobby	1	1	:*	d4e2,275x59,0,0,5
+window	hobby	2	0	:	d4e3,275x59,0,0,6
+window	hobby	3	0	:	513c,275x59,0,0{116x59,0,0[116x30,0,0,7,116x28,0,31,8],158x59,117,0[158x29,117,0{99x29,117,0,9,58x29,217,0,10},158x29,117,30,11]}
+window	phd	0	1	:*	28f9,275x59,0,0{139x59,0,0[139x37,0,0,12,139x21,0,38,13],135x59,140,0[135x37,140,0,14,135x21,140,38,15]}
+window	phd	4	0	:-	6aa5,275x59,0,0,16
+window	phd	5	0	:	6aa6,275x59,0,0,17
+window	phd	6	0	:	6aa7,275x59,0,0,18
+window	phd	9	0	:	0c7b,275x59,0,0{164x59,0,0[164x38,0,0,19,164x20,0,39,20],110x59,165,0[110x11,165,0,21,110x11,165,12,22,110x10,165,24,23,110x11,165,35,24,110x12,165,47,25]}
+window	work	0	0	:	dc82,275x59,0,0{139x59,0,0,26,135x59,140,0[135x28,140,0,28,135x30,140,29,29]}
+window	work	1	0	:	ce51,168x50,0,0{47x50,0,0,30,120x50,48,0[120x24,48,0,31,120x25,48,25,32]}
+window	work	2	0	:	8fbf,275x59,0,0{138x59,0,0[138x33,0,0,33,138x25,0,34,34],136x59,139,0[136x10,139,0,35,136x48,139,11,41]}
+window	work	3	0	:	2a06,275x58,0,0{139x58,0,0,36,135x58,140,0,42}
+window	work	4	0	:	3e57,168x48,0,0{89x48,0,0[89x32,0,0,112,89x15,0,33,143],78x48,90,0[78x24,90,0,106,78x23,90,25,144]}
+window	work	5	0	:	6fdd,168x48,0,0[168x23,0,0,38,168x24,0,24{83x24,0,24,39,84x24,84,24,124}]
+window	work	6	0	:-	193d,168x48,0,0{84x48,0,0,145,83x48,85,0,147}
+window	work	7	1	:*	b451,168x48,0,0,148
+state	work	phd
