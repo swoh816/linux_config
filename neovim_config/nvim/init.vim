@@ -22,7 +22,7 @@
 
 " Color column
 " https://vi.stackexchange.com/questions/356/how-can-i-set-up-a-ruler-at-a-specific-column
-set colorcolumn=50,100,150,200
+set colorcolumn=100,200
 hi ColorColumn ctermbg=lightcyan guibg=blue
 " You can set range of columns in color
 " execute "set colorcolumn=" . join(range(81,335), ',')
