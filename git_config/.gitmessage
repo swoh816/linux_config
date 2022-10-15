@@ -1,0 +1,46 @@
+# Subject
+##### Subject 50 characters ################# -> |
+<type>: <subject>
+
+
+# Body Message
+######## Body 72 characters ####################################### -> |
+
+# Issue Tracker Number or URL
+
+# --- COMMIT END ---
+# Type can be
+#   feat    : a new feature is introduced with the changes
+#   fix     : a bug fix has occurred
+#   chore   : changes that do not relate to a fix or feature and
+#             don't modify src or test files
+#             (no production code change:
+#             for example updating dependencies)
+#   refactor: refactored code that neither fixes a bug
+#             nor adds a feature
+#   docs    : updates to documentation such as a the README
+#             or other markdown files
+#   style   : changes that do not affect the meaning of the code,
+#             likely related to code formatting such as white-space,
+#             missing semi-colons, and so on.
+#   test    : including new or correcting previous tests
+#             (no production code change)
+#   perf    : performance improvements
+#   ci      : continuous integration related
+#   build   : changes that affect the build system or external dependencies
+#   revert  : reverts a previous commit
+#   temp    : temporary commit (like a remote stash)
+# ------------------
+# Remember me ~
+#   Capitalize the subject line
+#   Use the imperative mood in the subject line
+#   Do not end the subject line with a period
+#   Separate subject from body with a blank line
+#   Use the body to explain what and why vs. how
+#   Can use multiple lines with "-" for bullet points in body
+# ------------------
+# Reference
+# https://ujuc.github.io/2020/02/02/git-commit-message-template-man-deul-gi/
+# https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
+# https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733
+# ------------------
