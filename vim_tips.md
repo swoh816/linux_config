@@ -15,3 +15,7 @@ delmarks a
 delmarks!
 ]'  ['
 ]`  [`
+
+# Surround
+ysiw    : Apply brackets to the word where cursor is located
+yss     : Apply bracket to entire line
